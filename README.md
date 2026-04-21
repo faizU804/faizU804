@@ -22,19 +22,23 @@
 
 <div align="center">
 
-```javascript
-const faiz = {
-  name       : "Faiz Ur Rehman",
-  age        : 23,
-  location   : "Islamabad, Pakistan 🇵🇰",
-  role       : "Full-Stack Developer & Startup Builder",
-  company    : "Lads Technologies",
-  startup    : "Smart Tiffin — Pakistan's Home Food Marketplace 🍱",
-  education  : "BS Computer Science — FUUAST (2021–2025)",
-  experience : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
-  openTo     : ["Full-time roles", "Remote work", "Freelance"],
-  currentlyBuilding : "Production apps with Next.js 15 + AWS + Docker",
-  funFact    : "I ship startups before most devs finish their PRDs 🚀"
+```typescript
+const faiz: Developer = {
+  //  ═══════════════════════════════════════════════
+  //  WHO IS FAIZ? Let the code speak. 🚀
+  //  ═══════════════════════════════════════════════
+  name        : "Faiz Ur Rehman",
+  age         : 23,
+  location    : "Islamabad, Pakistan 🇵🇰",
+  role        : "Full-Stack Developer & Startup Builder",
+  company     : "Lads Technologies",
+  startup     : "Smart Tiffin — Pakistan's #1 Food Marketplace 🍱",   // ← LIVE & GROWING
+  education   : "BS Computer Science — FUUAST (2021–2025)",
+  experience  : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
+  openTo      : ["Full-time roles", "Remote work", "Freelance"],
+  building    : "Next.js 15 + AWS + Docker in Production 🐳",          // ← SHIPPING NOW
+  superpower  : "Ships startups before devs finish their PRDs 🚀",
+  philosophy  : "Don't just write code — build products people use 💡",
 }
 ```
 
@@ -245,7 +249,7 @@ Built a **cinematic 3D portfolio** that feels like an Apple product page — not
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=faizU804&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=faizU804&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/faizU804)
 
 </div>
 
