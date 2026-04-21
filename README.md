@@ -23,23 +23,19 @@
 <div align="center">
 
 const faiz: Developer = {
-  //  ═══════════════════════════════════════════════
-  //  WHO IS FAIZ? Let the code speak. 🚀
-  //  ═══════════════════════════════════════════════
   name        : "Faiz Ur Rehman",
   age         : 23,
   location    : "Islamabad, Pakistan 🇵🇰",
   role        : "Full-Stack Developer & Startup Builder",
   company     : "Lads Technologies",
-  startup     : "Smart Tiffin — Pakistan's #1 Food Marketplace 🍱",   // ← LIVE & GROWING
+  startup     : "Smart Tiffin — Pakistan's Home Food Marketplace 🍱",
   education   : "BS Computer Science — FUUAST (2021–2025)",
   experience  : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
-  openTo      : ["Full-time roles", "Remote work", "Freelance"],
-  building    : "Next.js 15 + AWS + Docker in Production 🐳",          // ← SHIPPING NOW
-  superpower  : "Ships startups before devs finish their PRDs 🚀",
-  philosophy  : "Don't just write code — build products people use 💡",
-}
-</div>
+  openTo      : ["Full-time roles", "Remote work", "Freelance projects"],
+  building    : "Production apps with Next.js 15 + AWS + Docker 🐳",
+  superpower  : "I ship startups before most devs finish their PRDs 🚀",
+  philosophy  : "Don't just write code — build products people actually use 💡"
+};
 
 ---
 
