@@ -1,36 +1,20 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Faiz%20Ur%20Rehman&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Startup%20Builder%20%7C%20Islamabad%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- Animated Particles Background Effect via Snake Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Faiz%20Ur%20Rehman&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Startup%20Builder%20%7C%20Islamabad%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=56&descSize=17" width="100%"/>
 </div>
-
----
 
 <div align="center">
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;⚙️+Next.js+15+%7C+Node.js+%7C+AWS+%7C+Docker;🍱+Building+Smart+Tiffin+—+Pakistan's+Food+Platform;🎨+3D+Animations+%7C+Production+Apps;🌍+Open+to+Remote+%26+Full-Time+Opportunities)](https://github.com/faizU804)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%2B+Node.js+%2B+AWS+%E2%98%81%EF%B8%8F;Building+Startups+from+Islamabad+%F0%9F%87%B5%F0%9F%87%B0;3D+%2B+Animations+%2B+Production+Apps+%F0%9F%8E%A8;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://github.com/faizU804)
 
 </div>
 
----
-
 <div align="center">
 
-<!-- Animated Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizurrehman13302)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faiz-pi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizurrehman13302)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faiz-pi.vercel.app)
 [![Smart Tiffin](https://img.shields.io/badge/🍱_Smart_Tiffin-FF6B35?style=for-the-badge)](https://smarttiffinfood.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizurrehman7865464@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=faizU804&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/faizU804)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizurrehman7865464@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=faizU804&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/faizU804)
 
 </div>
 
@@ -38,36 +22,31 @@
 
 <div align="center">
 
-## 👨‍💻 Who Am I?
-
-</div>
-
-```typescript
-const faiz: Developer = {
-  name        : "Faiz Ur Rehman",
-  age         : 23,
-  location    : "Islamabad, Pakistan 🇵🇰",
-  role        : "Full-Stack Developer & Startup Builder",
-  company     : "Lads Technologies",
-  startup     : "Smart Tiffin — Pakistan's Home Food Marketplace 🍱",
-  education   : "BS Computer Science — FUUAST (2021–2025)",
-  experience  : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
-  openTo      : ["Full-time roles", "Remote work", "Freelance projects"],
-  building    : "Production apps with Next.js 15 + AWS + Docker 🐳",
-  superpower  : "I ship startups before most devs finish their PRDs 🚀",
-  philosophy  : "Don't just write code — build products people actually use 💡"
-};
+```javascript
+const faiz = {
+  name       : "Faiz Ur Rehman",
+  age        : 23,
+  location   : "Islamabad, Pakistan 🇵🇰",
+  role       : "Full-Stack Developer & Startup Builder",
+  company    : "Lads Technologies",
+  startup    : "Smart Tiffin — Pakistan's Home Food Marketplace 🍱",
+  education  : "BS Computer Science — FUUAST (2021–2025)",
+  experience : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
+  openTo     : ["Full-time roles", "Remote work", "Freelance"],
+  currentlyBuilding : "Production apps with Next.js 15 + AWS + Docker",
+  funFact    : "I ship startups before most devs finish their PRDs 🚀"
+}
 ```
 
----
+</div>
 
-<div align="center">
+---
 
 ## 🍱 Featured Startup — Smart Tiffin
 
-[![Smart Tiffin Banner](https://img.shields.io/badge/🌐_LIVE_PLATFORM-smarttiffinfood.vercel.app-FF6B35?style=for-the-badge)](https://smarttiffinfood.vercel.app)
+<div align="center">
 
-> 🇵🇰 **Pakistan's Home-Cooked Food Marketplace** — bridging home cooks & food lovers across 6+ cities
+> **Pakistan's #1 Home-Cooked Food Marketplace** — connecting home cooks with food lovers across major cities
 
 </div>
 
@@ -75,37 +54,35 @@ const faiz: Developer = {
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 The Startup Story
+### 🚀 What is Smart Tiffin?
 
-Smart Tiffin is a **real, live, revenue-generating startup** I conceptualized, built, and deployed end-to-end — a two-sided marketplace that connects talented **home cooks** with customers craving authentic, affordable, home-cooked meals across Pakistan.
+Smart Tiffin is a **real, live startup** I built and deployed — a marketplace platform that connects **home cooks** with customers looking for authentic, affordable, home-cooked meals across Pakistan.
 
-**🔴 The Problem I Identified:**
-- Restaurants are expensive, impersonal, and often unhealthy
-- Thousands of skilled home cooks had zero platform to monetize
-- No direct cook-to-customer channel existed in Pakistan's market
+**The Problem I solved:**
+- Restaurants are expensive & impersonal
+- Home cooks had no platform to reach customers
+- No direct cook-to-customer channel existed in Pakistan
 
-**🟢 My Solution:**
-- 🔍 Browse home kitchens by city in seconds
-- 💬 Direct WhatsApp connection — zero middleman, zero commission
-- 🆓 Free for cooks to list & start earning
-- ⭐ Verified reviews, ratings & cook badges system
-- 📱 Mobile-first, lightning fast, SEO-optimized
+**My Solution:**
+- Browse home kitchens by city
+- Direct WhatsApp connection — no middleman
+- Free for cooks to list their kitchen
+- Verified reviews & ratings system
 
 </td>
 <td width="45%" valign="top">
 
-### 📊 Live Traction
+### 📊 Live Stats
 
-| Metric | Status |
-|--------|--------|
-| 🏠 Home Kitchens | **7 Active** |
-| 🍽️ Menu Items | **8 Listed** |
-| 😊 Happy Customers | **20+** |
-| 🌆 Cities Covered | **6 Cities** |
-| 🇵🇰 Market | **Pakistan** |
-| 🟢 Status | **Live & Growing** |
+| Metric | Count |
+|---|---|
+| 🏠 Home Kitchens | 7 Active |
+| 🍽️ Menu Items | 8 Listed |
+| 😊 Happy Customers | 20+ |
+| 🌆 Cities Covered | 6 Cities |
+| 🇵🇰 Market | Pakistan |
 
-### 🔗 Explore
+### 🔗 Links
 
 [![Live Platform](https://img.shields.io/badge/🌐_Live_Platform-FF6B35?style=for-the-badge)](https://smarttiffinfood.vercel.app)
 [![Explore Kitchens](https://img.shields.io/badge/🍱_Explore_Kitchens-22c55e?style=for-the-badge)](https://smarttiffinfood.vercel.app/explore)
@@ -121,60 +98,51 @@ Smart Tiffin is a **real, live, revenue-generating startup** I conceptualized, b
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**🔑 Key Features Shipped:**
-
-| Feature | Status |
-|---------|--------|
-| Multi-city kitchen discovery & smart search | ✅ Live |
-| Real-time menu browsing | ✅ Live |
-| Cook dashboard & premium subscription plans | ✅ Live |
-| WhatsApp direct integration (zero commission) | ✅ Live |
-| Verified cook badges & review system | ✅ Live |
-| Fully responsive — mobile-first design | ✅ Live |
-| SEO optimized for Pakistani food searches | ✅ Live |
-| Deployed & scaling on Vercel Edge | ✅ Live |
+**Key Features Built:**
+- ✅ Multi-city kitchen discovery & search
+- ✅ Real-time menu browsing
+- ✅ Cook dashboard & premium plans
+- ✅ WhatsApp direct integration
+- ✅ Verified cook badges & ratings
+- ✅ Fully responsive — mobile first
+- ✅ SEO optimized for Pakistani food searches
+- ✅ Deployed & live at scale on Vercel
 
 ---
 
-<div align="center">
-
-## 🎨 Cinematic 3D Portfolio
-
-[![Portfolio Preview](https://img.shields.io/badge/🌐_View_Live_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faiz-pi.vercel.app)
-
-</div>
+## 🎨 3D Portfolio
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### ✨ What Makes It Unforgettable?
+### What makes it unique?
 
-Built a **cinematic, Apple-grade 3D portfolio** — every pixel intentional, every animation purposeful.
+Built a **cinematic 3D portfolio** that feels like an Apple product page — not a template.
 
-- 🌐 **Live Three.js geometry** reacting to mouse movement in real-time
-- 🎬 **Cinematic loader** — name animates like a movie title reveal
-- 💫 **GSAP ScrollTrigger** — each section materializes on scroll
-- ⚡ **Lenis smooth scroll** — butter-smooth, 60fps guaranteed
-- 🚀 **Sub-second load** despite heavy 3D assets (optimized to the bone)
-- 📱 **Fully responsive** with reduced-motion accessibility support
-- 🎨 **Spline 3D scenes** embedded seamlessly in page flow
+- 🌐 Live Three.js geometry reacting to mouse
+- 🎬 Cinematic loader with name animation
+- 💫 GSAP ScrollTrigger section reveals
+- ⚡ Lenis smooth scroll (butter smooth)
+- 🚀 Sub-second load despite heavy 3D
+- 📱 Fully responsive with reduced motion support
 
 </td>
 <td width="45%" valign="top">
 
-### 🛠️ Stack
+### Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline_3D-6366f1?style=flat-square)
+![Spline](https://img.shields.io/badge/Spline-6366f1?style=flat-square)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+[![View Portfolio](https://img.shields.io/badge/🌐_View_Live-6366f1?style=for-the-badge)](https://portfolio-faiz-pi.vercel.app)
 
 </td>
 </tr>
@@ -182,17 +150,12 @@ Built a **cinematic, Apple-grade 3D portfolio** — every pixel intentional, eve
 
 ---
 
-<div align="center">
-
 ## ⚡ Full Tech Arsenal
 
-</div>
-
 <table>
-<tr>
-<td valign="top" width="25%">
+<tr><td valign="top" width="25%">
 
-### 🎨 Frontend
+**🎨 Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -200,45 +163,53 @@ Built a **cinematic, Apple-grade 3D portfolio** — every pixel intentional, eve
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
 
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
 
-### ⚙️ Backend
+**⚙️ Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
 
-### 🗄️ Databases
+**🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon_DB-00E699?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square)
 
-</td>
-<td valign="top" width="25%">
+</td><td valign="top" width="25%">
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
+
+</td></tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+```
+🏢 Lads Technologies          Full-Stack Developer      Nov 2025 → Present
+🤖 BOT Solutions              Website Developer         Jun 2024 → Present  
+💻 Origen Tech                Web Developer             Nov 2023 → Feb 2024
+```
 
 </td>
 </tr>
@@ -246,103 +217,63 @@ Built a **cinematic, Apple-grade 3D portfolio** — every pixel intentional, eve
 
 ---
 
-<div align="center">
-
-## 💼 Professional Timeline
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          CAREER JOURNEY                                     │
-├──────────────────────┬──────────────────────────┬───────────────────────────┤
-│  🏢 Company           │  📋 Role                  │  📅 Duration              │
-├──────────────────────┼──────────────────────────┼───────────────────────────┤
-│  Lads Technologies   │  Full-Stack Developer     │  Nov 2025 → Present 🟢    │
-│  BOT Solutions       │  Website Developer        │  Jun 2024 → Present 🟢    │
-│  Origen Tech         │  Web Developer            │  Nov 2023 → Feb 2024      │
-│  Smart Tiffin        │  Founder & Lead Dev       │  2024 → Present 🟢🚀      │
-└──────────────────────┴──────────────────────────┴───────────────────────────┘
-```
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 📊 GitHub Stats & Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizU804&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=06b6d4&text_color=aaaacc&count_private=true&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=faizU804&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=06b6d4&text_color=c4b5fd&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizU804&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&hide=html,css&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizU804&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=aaaacc&hide=html,css&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizU804&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b8ba7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizU804&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizU804&bg_color=0d0d1a&color=a78bfa&line=a78bfa&point=06b6d4&area_color=1a1a2e&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizU804&bg_color=0a0a0f&color=6366f1&line=6366f1&point=06b6d4&area=true&hide_border=true)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=faizU804&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=faizU804&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🌟 Animated Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake.svg" />
-  <img alt="contribution-snake-animation" src="https://raw.githubusercontent.com/faizU804/faizU804/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
+## 🤝 Let's Connect & Build
 
 <div align="center">
 
-## 🤝 Let's Build Something Legendary
+### Available for full-time roles, remote work & exciting projects
 
-### 💼 Open to Full-Time Roles · Remote Work · Exciting Projects
-
-*Especially passionate about startups and products that solve real problems — like Smart Tiffin 🍱*
-
-<br/>
+*Especially interested in startups and products that solve real problems — like Smart Tiffin 🍱*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizurrehman13302)
 [![Portfolio](https://img.shields.io/badge/View_3D_Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-faiz-pi.vercel.app)
 [![Smart Tiffin](https://img.shields.io/badge/Visit_Smart_Tiffin-FF6B35?style=for-the-badge)](https://smarttiffinfood.vercel.app)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizurrehman7865464@gmail.com)
 
-<br/>
+</div>
 
 ---
 
-### ✨ Quote That Drives Me
+<div align="center">
 
-> *"I don't just write code — I build products people actually use."*
+*"I don't just write code — I build products people actually use."*
 
-**— Faiz Ur Rehman · Full-Stack Developer & Startup Builder · Islamabad, Pakistan 🇵🇰**
+**— Faiz Ur Rehman, Full-Stack Developer & Startup Builder**
 
-<br/>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
