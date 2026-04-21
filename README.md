@@ -22,21 +22,19 @@
 
 <div align="center">
 
-```javascript
-const faiz = {
-  name       : "Faiz Ur Rehman",
-  age        : 23,
-  location   : "Islamabad, Pakistan 🇵🇰",
-  role       : "Full-Stack Developer & Startup Builder",
-  company    : "Lads Technologies",
-  startup    : "Smart Tiffin — Pakistan's Home Food Marketplace 🍱",
-  education  : "BS Computer Science — FUUAST (2021–2025)",
-  experience : ["Lads Technologies", "BOT Solutions", "Origen Tech"],
-  openTo     : ["Full-time roles", "Remote work", "Freelance"],
-  currentlyBuilding : "Production apps with Next.js 15 + AWS + Docker",
-  funFact    : "I ship startups before most devs finish their PRDs 🚀"
-}
-```
+| | |
+|---:|:---|
+| **name** | `"Faiz Ur Rehman"` |
+| **age** | `23` |
+| **location** | `"Islamabad, Pakistan 🇵🇰"` |
+| **role** | `"Full-Stack Developer & Startup Builder"` |
+| **company** | `"Lads Technologies"` |
+| **startup** | `"Smart Tiffin — Pakistan's Home Food Marketplace 🍱"` |
+| **education** | `"BS Computer Science — FUUAST (2021–2025)"` |
+| **experience** | `["Lads Technologies", "BOT Solutions", "Origen Tech"]` |
+| **openTo** | `["Full-time roles", "Remote work", "Freelance"]` |
+| **currentlyBuilding** | `"Production apps with Next.js 15 + AWS + Docker"` |
+| **funFact** | `"I ship startups before most devs finish their PRDs 🚀"` |
 
 </div>
 
@@ -241,11 +239,19 @@ Built a **cinematic 3D portfolio** that feels like an Apple product page — not
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Dev Milestones
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=faizU804&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+> Full-Stack Developer building production-grade apps from Islamabad — open to remote roles worldwide.
+
+| Milestone | Detail |
+|---|---|
+| 🚀 **Shipped a live startup** | Smart Tiffin — Pakistan's home food marketplace, 6 cities |
+| 🎬 **Cinematic 3D portfolio** | Three.js + GSAP, sub-second load, fully responsive |
+| ☁️ **Cloud-native deployments** | AWS + Docker + Vercel at production scale |
+| 💻 **3 companies, 3+ years** | Lads Technologies · BOT Solutions · Origen Tech |
+| 🌍 **Open to remote work** | Full-time · Freelance · Contract |
 
 </div>
 
