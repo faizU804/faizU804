@@ -22,7 +22,6 @@
 
 <div align="center">
 
-```typescript
 const faiz: Developer = {
   //  ═══════════════════════════════════════════════
   //  WHO IS FAIZ? Let the code speak. 🚀
@@ -40,8 +39,6 @@ const faiz: Developer = {
   superpower  : "Ships startups before devs finish their PRDs 🚀",
   philosophy  : "Don't just write code — build products people use 💡",
 }
-```
-
 </div>
 
 ---
