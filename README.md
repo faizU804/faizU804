@@ -241,15 +241,11 @@ Built a **cinematic 3D portfolio** that feels like an Apple product page — not
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=faizU804&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4&cache_seconds=86400" 
-    alt="GitHub Trophies"
-    width="95%"
-  />
+![Trophies](https://github-profile-trophy.vercel.app/?username=faizU804&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
